@@ -1,0 +1,3 @@
+com.cookandroid.studyingapplication.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

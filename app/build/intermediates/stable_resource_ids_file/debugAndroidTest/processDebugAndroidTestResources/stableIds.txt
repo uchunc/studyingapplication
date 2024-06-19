@@ -1,0 +1,2 @@
+com.cookandroid.studyingapplication.test:style/WhiteBackgroundTheme = 0x7f010001
+com.cookandroid.studyingapplication.test:style/WhiteBackgroundDialogTheme = 0x7f010000
